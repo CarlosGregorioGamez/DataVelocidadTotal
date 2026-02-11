@@ -1,0 +1,8 @@
+{
+  "id": "P03",
+  "name": "Hadjar",
+  "team": "Red Bull Racing",
+  "wins": ["C02"],
+  "podiums": ["C08", "C15", "C23"],
+  "image": "R.drawable.red_bull_racing"
+}

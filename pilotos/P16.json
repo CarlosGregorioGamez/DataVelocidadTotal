@@ -1,0 +1,8 @@
+{
+  "id": "P16",
+  "name": "Norris",
+  "team": "McLaren",
+  "wins": ["C01"],
+  "podiums": ["C12"],
+  "image": "R.drawable.mclaren"
+}

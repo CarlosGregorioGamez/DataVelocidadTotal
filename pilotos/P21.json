@@ -1,0 +1,8 @@
+{
+  "id": "P21",
+  "name": "Ocon",
+  "team": "Haas",
+  "wins": ["C14"],
+  "podiums": ["C13"],
+  "image": "R.drawable.haas"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C07",
+  "name": "GP de Bahrain",
+  "editions": 12,
+  "country": "Bahrain",
+  "winner": "P17",
+  "podium": ["P06", "P22"],
+  "length": 5.2,
+  "image": "R.drawable.abu_dhabi"
+}

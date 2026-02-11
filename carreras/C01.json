@@ -1,0 +1,10 @@
+{
+  "id": "C01",
+  "name": "GP de Abu Dhabi",
+  "editions": 42,
+  "country": "Abu Dhabi",
+  "winner": "P16",
+  "podium": ["P01", "P04"],
+  "length": 5.3,
+  "image": "R.drawable.abu_dhabi"
+}

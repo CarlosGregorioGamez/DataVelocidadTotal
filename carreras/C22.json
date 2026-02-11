@@ -1,0 +1,10 @@
+{
+  "id": "C22",
+  "name": "GP de Singapur",
+  "editions": 9,
+  "country": "Singapur",
+  "winner": "P02",
+  "podium": ["P06", "P10"],
+  "length": 5.2,
+  "image": "R.drawable.abu_dhabi"
+}

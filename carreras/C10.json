@@ -1,0 +1,10 @@
+{
+  "id": "C10",
+  "name": "GP de Canada",
+  "editions": 24,
+  "country": "Canadá",
+  "winner": "P12",
+  "podium": ["P15", "P01"],
+  "length": 5.0,
+  "image": "R.drawable.abu_dhabi"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "E04",
+  "name": "Haas",
+  "drivers": ["P18", "P21"],
+  "championships": 0,
+  "wins": 2,
+  "podiums": 7,
+  "image": "R.drawable.haas"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C16",
+  "name": "GP de Japón",
+  "editions": 2,
+  "country": "Japón",
+  "winner": "P18",
+  "podium": ["P20", "P22"],
+  "length": 5.7,
+  "image": "R.drawable.abu_dhabi"
+}

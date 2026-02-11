@@ -1,0 +1,10 @@
+{
+  "id": "C04",
+  "name": "GP de Australia",
+  "editions": 3,
+  "country": "Australia",
+  "winner": "P20",
+  "podium": ["P11", "P14"],
+  "length": 5.1,
+  "image": "R.drawable.abu_dhabi"
+}

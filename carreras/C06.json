@@ -1,0 +1,10 @@
+{
+  "id": "C06",
+  "name": "GP de Azerbaijan",
+  "editions": 19,
+  "country": "Azerbaijan",
+  "winner": "P13",
+  "podium": ["P10", "P02"],
+  "length": 5.7,
+  "image": "R.drawable.abu_dhabi"
+}

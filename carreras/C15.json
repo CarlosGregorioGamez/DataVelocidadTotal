@@ -1,0 +1,10 @@
+{
+  "id": "C15",
+  "name": "GP de Italia",
+  "editions": 44,
+  "country": "Italia",
+  "winner": "P10",
+  "podium": ["P03", "P05"],
+  "length": 6.2,
+  "image": "R.drawable.abu_dhabi"
+}

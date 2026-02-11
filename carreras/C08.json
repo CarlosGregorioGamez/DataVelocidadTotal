@@ -1,0 +1,10 @@
+{
+  "id": "C08",
+  "name": "GP de Bélgica",
+  "editions": 33,
+  "country": "Bélgica",
+  "winner": "P08",
+  "podium": ["P03", "P09"],
+  "length": 5.9,
+  "image": "R.drawable.abu_dhabi"
+}

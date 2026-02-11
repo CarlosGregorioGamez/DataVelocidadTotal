@@ -1,0 +1,10 @@
+{
+  "id": "C12",
+  "name": "GP de España",
+  "editions": 29,
+  "country": "España",
+  "winner": "P04",
+  "podium": ["P07", "P16"],
+  "length": 5.3,
+  "image": "R.drawable.abu_dhabi"
+}

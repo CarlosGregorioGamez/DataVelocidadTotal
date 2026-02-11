@@ -1,0 +1,8 @@
+{
+  "id": "P02",
+  "name": "Bortoleto",
+  "team": "Audi",
+  "wins": ["C11", "C22"],
+  "podiums": ["C03", "C06", "C14", "C19"],
+  "image": "R.drawable.audi"
+}

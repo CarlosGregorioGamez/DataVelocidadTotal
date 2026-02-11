@@ -1,0 +1,10 @@
+{
+  "id": "C17",
+  "name": "GP de Mexico",
+  "editions": 31,
+  "country": "México",
+  "winner": "P11",
+  "podium": ["P08", "P14"],
+  "length": 5.3,
+  "image": "R.drawable.abu_dhabi"
+}

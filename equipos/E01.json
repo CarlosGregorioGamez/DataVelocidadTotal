@@ -1,0 +1,9 @@
+{
+  "id": "E01",
+  "name": "Alpine",
+  "drivers": ["P19", "P14"],
+  "championships": 2,
+  "wins": 21,
+  "podiums": 59,
+  "image": "R.drawable.alpine"
+}

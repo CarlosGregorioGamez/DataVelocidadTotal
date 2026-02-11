@@ -1,0 +1,10 @@
+{
+  "id": "C21",
+  "name": "GP de Qatar",
+  "editions": 17,
+  "country": "Qatar",
+  "winner": "P22",
+  "podium": ["P13", "P11"],
+  "length": 5.8,
+  "image": "R.drawable.abu_dhabi"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "P12",
+  "name": "Verstappen",
+  "team": "Red Bull Racing",
+  "wins": ["C10"],
+  "podiums": ["C02", "C18"],
+  "image": "R.drawable.red_bull_racing"
+}

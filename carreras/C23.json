@@ -1,0 +1,10 @@
+{
+  "id": "C23",
+  "name": "GP de Las Vegas",
+  "editions": 38,
+  "country": "Estados Unidos",
+  "winner": "P01",
+  "podium": ["P05", "P03"],
+  "length": 5.3,
+  "image": "R.drawable.abu_dhabi"
+}

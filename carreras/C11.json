@@ -1,0 +1,10 @@
+{
+  "id": "C11",
+  "name": "GP de China",
+  "editions": 16,
+  "country": "China",
+  "winner": "P02",
+  "podium": ["P11", "P13"],
+  "length": 5.8,
+  "image": "R.drawable.abu_dhabi"
+}

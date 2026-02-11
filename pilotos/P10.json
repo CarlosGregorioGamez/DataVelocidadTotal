@@ -1,0 +1,8 @@
+{
+  "id": "P10",
+  "name": "Lindblad",
+  "team": "Racing Bulls",
+  "wins": ["C15"],
+  "podiums": ["C06", "C22"],
+  "image": "R.drawable.racing_bulls"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "E02",
+  "name": "Aston Martin",
+  "drivers": ["P06", "P07"],
+  "championships": 0,
+  "wins": 1,
+  "podiums": 9,
+  "image": "R.drawable.aston_martin"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C09",
+  "name": "GP de Brasil",
+  "editions": 7,
+  "country": "Brasil",
+  "winner": "P05",
+  "podium": ["P18", "P20"],
+  "length": 5.4,
+  "image": "R.drawable.abu_dhabi"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "P01",
+  "name": "Albon",
+  "team": "Williams",
+  "wins": ["C05", "C23"],
+  "podiums": ["C01", "C10", "C19"],
+  "image": "R.drawable.williams"
+}
