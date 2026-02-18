@@ -1,10 +1,10 @@
 {
   "id": "C03",
   "name": "GP de Las Américas",
-  "editions": 27,
+  "editions": 1,
   "country": "Estados Unidos",
   "winner": "P09",
-  "podium": ["P02", "P05"],
-  "length": 5.6,
-  "image": "R.drawable.abu_dhabi"
+  "podium": ["P16", "P11"],
+  "length": 5.5,
+  "image": "R.drawable.austin_usa"
 }

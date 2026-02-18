@@ -2,7 +2,7 @@
   "id": "P09",
   "name": "Hamilton",
   "team": "Ferrari",
-  "wins": ["C03"],
-  "podiums": ["C08", "C14"],
-  "image": "R.drawable.ferrari"
+  "wins": ["C03","C06","C11","C17","C22"],
+  "podiums": ["C02","C05","C08","C10","C12","C13","C15","C19","C21"],
+  "image": "R.drawable.hamilton"
 }

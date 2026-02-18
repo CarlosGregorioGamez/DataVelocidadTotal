@@ -2,7 +2,7 @@
   "id": "P06",
   "name": "Stroll",
   "team": "Aston Martin",
-  "wins": ["C18"],
-  "podiums": ["C07", "C22"],
-  "image": "R.drawable.aston_martin"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.stroll"
 }

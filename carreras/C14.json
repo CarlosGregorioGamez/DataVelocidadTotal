@@ -1,10 +1,10 @@
 {
   "id": "C14",
   "name": "GP de Hungría",
-  "editions": 8,
+  "editions": 1,
   "country": "Hungría",
-  "winner": "P21",
-  "podium": ["P02", "P09"],
-  "length": 5.1,
-  "image": "R.drawable.abu_dhabi"
+  "winner": "P11",
+  "podium": ["P16", "P12"],
+  "length": 4.4,
+  "image": "R.drawable.hungria"
 }

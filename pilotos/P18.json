@@ -2,7 +2,7 @@
   "id": "P18",
   "name": "Bearman",
   "team": "Haas",
-  "wins": ["C16"],
-  "podiums": ["C09"],
-  "image": "R.drawable.haas"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.bearman"
 }

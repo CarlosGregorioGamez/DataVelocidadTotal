@@ -2,7 +2,7 @@
   "id": "P12",
   "name": "Verstappen",
   "team": "Red Bull Racing",
-  "wins": ["C10"],
-  "podiums": ["C02", "C18"],
-  "image": "R.drawable.red_bull_racing"
+  "wins": ["C02","C05","C08","C13","C16","C20"],
+  "podiums": ["C04","C07","C10","C14","C18","C23"],
+  "image": "R.drawable.verstappen"
 }

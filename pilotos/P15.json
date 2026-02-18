@@ -2,7 +2,7 @@
   "id": "P15",
   "name": "Hulkenberg",
   "team": "Audi",
-  "wins": ["C20"],
-  "podiums": ["C10"],
-  "image": "R.drawable.audi"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.hulkenberg"
 }

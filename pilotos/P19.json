@@ -2,7 +2,7 @@
   "id": "P19",
   "name": "Gasly",
   "team": "Alpine",
-  "wins": ["C19"],
-  "podiums": ["C13"],
-  "image": "R.drawable.alpine"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.gasly"
 }

@@ -1,10 +1,10 @@
 {
   "id": "C18",
   "name": "GP de Miami",
-  "editions": 13,
+  "editions": 1,
   "country": "Estados Unidos",
-  "winner": "P06",
-  "podium": ["P17", "P12"],
+  "winner": "P11",
+  "podium": ["P12", "P16"],
   "length": 5.4,
-  "image": "R.drawable.abu_dhabi"
+  "image": "R.drawable.miami"
 }

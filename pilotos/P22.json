@@ -2,7 +2,7 @@
   "id": "P22",
   "name": "Sainz",
   "team": "Williams",
-  "wins": ["C21"],
-  "podiums": ["C07", "C16"],
-  "image": "R.drawable.williams"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.sainz"
 }

@@ -1,10 +1,10 @@
 {
   "id": "C19",
   "name": "GP de Mónaco",
-  "editions": 55,
+  "editions": 1,
   "country": "Mónaco",
-  "winner": "P19",
-  "podium": ["P01", "P02"],
-  "length": 3.9,
-  "image": "R.drawable.abu_dhabi"
+  "winner": "P16",
+  "podium": ["P09", "P11"],
+  "length": 3.3,
+  "image": "R.drawable.monaco"
 }

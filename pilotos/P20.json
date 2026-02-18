@@ -2,7 +2,7 @@
   "id": "P20",
   "name": "Lawson",
   "team": "Racing Bulls",
-  "wins": ["C04"],
-  "podiums": ["C09", "C16"],
-  "image": "R.drawable.racing_bulls"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.lawson"
 }

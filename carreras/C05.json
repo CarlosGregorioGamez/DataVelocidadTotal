@@ -1,10 +1,10 @@
 {
   "id": "C05",
   "name": "GP de Austria",
-  "editions": 50,
+  "editions": 1,
   "country": "Austria",
-  "winner": "P01",
-  "podium": ["P04", "P08"],
-  "length": 6.0,
-  "image": "R.drawable.abu_dhabi"
+  "winner": "P12",
+  "podium": ["P11", "P09"],
+  "length": 4.3,
+  "image": "R.drawable.austria"
 }

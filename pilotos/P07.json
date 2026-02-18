@@ -3,6 +3,6 @@
   "name": "Alonso",
   "team": "Aston Martin",
   "wins": [],
-  "podiums": ["C02", "C12", "C20"],
-  "image": "R.drawable.aston_martin"
+  "podiums": [],
+  "image": "R.drawable.alonso"
 }

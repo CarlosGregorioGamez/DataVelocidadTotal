@@ -1,10 +1,10 @@
 {
   "id": "C21",
   "name": "GP de Qatar",
-  "editions": 17,
+  "editions": 1,
   "country": "Qatar",
-  "winner": "P22",
-  "podium": ["P13", "P11"],
-  "length": 5.8,
-  "image": "R.drawable.abu_dhabi"
+  "winner": "P11",
+  "podium": ["P16", "P09"],
+  "length": 5.4,
+  "image": "R.drawable.qatar"
 }

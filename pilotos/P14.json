@@ -2,7 +2,7 @@
   "id": "P14",
   "name": "Colapinto",
   "team": "Alpine",
-  "wins": ["C13"],
-  "podiums": ["C04", "C17"],
-  "image": "R.drawable.alpine"
+  "wins": [],
+  "podiums": [],
+  "image": "R.drawable.colapinto"
 }

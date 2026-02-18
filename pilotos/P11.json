@@ -2,7 +2,7 @@
   "id": "P11",
   "name": "Piastri",
   "team": "McLaren",
-  "wins": ["C17"],
-  "podiums": ["C04", "C11", "C21"],
-  "image": "R.drawable.mclaren"
+  "wins": ["C04","C07","C12","C14","C18","C21"],
+  "podiums": ["C03","C05","C09","C11","C15","C19","C20","C22","C23"],
+  "image": "R.drawable.piastri"
 }
