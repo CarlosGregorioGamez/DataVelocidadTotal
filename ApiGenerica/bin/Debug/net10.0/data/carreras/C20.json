@@ -1,0 +1,10 @@
+{
+  "id": "C20",
+  "name": "GP de Países Bajos",
+  "editions": 1,
+  "country": "Países Bajos",
+  "winner": "P12",
+  "podium": ["P11", "P16"],
+  "length": 4.2,
+  "image": "R.drawable.paises_bajos"
+}

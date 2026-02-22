@@ -1,0 +1,10 @@
+{
+  "id": "C21",
+  "name": "GP de Qatar",
+  "editions": 1,
+  "country": "Qatar",
+  "winner": "P11",
+  "podium": ["P16", "P09"],
+  "length": 5.4,
+  "image": "R.drawable.qatar"
+}

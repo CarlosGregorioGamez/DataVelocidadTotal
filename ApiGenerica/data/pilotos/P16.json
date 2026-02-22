@@ -1,0 +1,8 @@
+{
+  "id": "P16",
+  "name": "Norris",
+  "team": "McLaren",
+  "wins": ["C01","C10","C15","C19","C23"],
+  "podiums": ["C03","C04","C06","C07","C08","C09","C12","C13","C14","C16","C17","C18","C20","C21","C22"],
+  "image": "R.drawable.norris"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C22",
+  "name": "GP de Singapur",
+  "editions": 1,
+  "country": "Singapur",
+  "winner": "P09",
+  "podium": ["P11", "P16"],
+  "length": 5.0,
+  "image": "R.drawable.singapur"
+}

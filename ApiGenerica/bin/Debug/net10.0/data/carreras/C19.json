@@ -1,0 +1,10 @@
+{
+  "id": "C19",
+  "name": "GP de Mónaco",
+  "editions": 1,
+  "country": "Mónaco",
+  "winner": "P16",
+  "podium": ["P09", "P11"],
+  "length": 3.3,
+  "image": "R.drawable.monaco"
+}

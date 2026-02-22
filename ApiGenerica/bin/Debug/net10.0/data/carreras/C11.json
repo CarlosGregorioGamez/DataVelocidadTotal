@@ -1,0 +1,10 @@
+{
+  "id": "C11",
+  "name": "GP de China",
+  "editions": 1,
+  "country": "China",
+  "winner": "P09",
+  "podium": ["P11", "P17"],
+  "length": 5.4,
+  "image": "R.drawable.china"
+}

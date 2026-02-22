@@ -1,0 +1,10 @@
+{
+  "id": "C18",
+  "name": "GP de Miami",
+  "editions": 1,
+  "country": "Estados Unidos",
+  "winner": "P11",
+  "podium": ["P12", "P16"],
+  "length": 5.4,
+  "image": "R.drawable.miami"
+}

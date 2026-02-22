@@ -1,0 +1,9 @@
+{
+  "id": "E06",
+  "name": "Racing Bulls",
+  "drivers": ["P10", "P20"],
+  "championships": 0,
+  "wins": 6,
+  "podiums": 10,
+  "image": "R.drawable.racing_bulls"
+}

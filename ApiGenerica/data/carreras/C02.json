@@ -1,0 +1,10 @@
+{
+  "id": "C02",
+  "name": "GP de Arabia Saudi",
+  "editions": 1,
+  "country": "Arabia Saudí",
+  "winner": "P12",
+  "podium": ["P09", "P04"],
+  "length": 6.1,
+  "image": "R.drawable.arabia_saudi"
+}

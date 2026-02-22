@@ -1,0 +1,10 @@
+{
+  "id": "C05",
+  "name": "GP de Austria",
+  "editions": 1,
+  "country": "Austria",
+  "winner": "P12",
+  "podium": ["P11", "P09"],
+  "length": 4.3,
+  "image": "R.drawable.austria"
+}

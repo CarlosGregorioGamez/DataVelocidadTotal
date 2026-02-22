@@ -1,0 +1,10 @@
+{
+  "id": "C09",
+  "name": "GP de Brasil",
+  "editions": 1,
+  "country": "Brasil",
+  "winner": "P17",
+  "podium": ["P11", "P16"],
+  "length": 4.3,
+  "image": "R.drawable.brasil"
+}

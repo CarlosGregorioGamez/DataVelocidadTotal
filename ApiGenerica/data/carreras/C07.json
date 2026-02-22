@@ -1,0 +1,10 @@
+{
+  "id": "C07",
+  "name": "GP de Bahrain",
+  "editions": 1,
+  "country": "Bahrain",
+  "winner": "P11",
+  "podium": ["P12", "P16"],
+  "length": 5.4,
+  "image": "R.drawable.bahrein"
+}

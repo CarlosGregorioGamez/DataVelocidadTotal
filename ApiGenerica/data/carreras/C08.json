@@ -1,0 +1,10 @@
+{
+  "id": "C08",
+  "name": "GP de Bélgica",
+  "editions": 1,
+  "country": "Bélgica",
+  "winner": "P12",
+  "podium": ["P16", "P09"],
+  "length": 7.0,
+  "image": "R.drawable.belgica"
+}

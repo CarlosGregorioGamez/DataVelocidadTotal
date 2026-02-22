@@ -1,0 +1,9 @@
+{
+  "id": "E08",
+  "name": "Mercedes",
+  "drivers": ["P13", "P17"],
+  "championships": 8,
+  "wins": 125,
+  "podiums": 300,
+  "image": "R.drawable.mercedes"
+}

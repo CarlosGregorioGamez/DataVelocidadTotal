@@ -1,0 +1,10 @@
+{
+  "id": "C14",
+  "name": "GP de Hungría",
+  "editions": 1,
+  "country": "Hungría",
+  "winner": "P11",
+  "podium": ["P16", "P12"],
+  "length": 4.4,
+  "image": "R.drawable.hungria"
+}

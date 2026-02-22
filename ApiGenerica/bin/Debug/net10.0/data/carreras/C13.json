@@ -1,0 +1,10 @@
+{
+  "id": "C13",
+  "name": "GP de Gran Bretaña",
+  "editions": 1,
+  "country": "Reino Unido",
+  "winner": "P12",
+  "podium": ["P09", "P16"],
+  "length": 5.9,
+  "image": "R.drawable.gran_bretana"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C23",
+  "name": "GP de Las Vegas",
+  "editions": 1,
+  "country": "Estados Unidos",
+  "winner": "P16",
+  "podium": ["P12", "P11"],
+  "length": 6.2,
+  "image": "R.drawable.vegas"
+}

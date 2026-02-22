@@ -1,0 +1,9 @@
+{
+  "id": "E07",
+  "name": "McLaren",
+  "drivers": ["P11", "P16"],
+  "championships": 8,
+  "wins": 183,
+  "podiums": 500,
+  "image": "R.drawable.mclaren"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "C17",
+  "name": "GP de Mexico",
+  "editions": 1,
+  "country": "México",
+  "winner": "P09",
+  "podium": ["P16", "P17"],
+  "length": 4.3,
+  "image": "R.drawable.mexico"
+}

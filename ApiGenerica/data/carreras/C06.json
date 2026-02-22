@@ -1,0 +1,10 @@
+{
+  "id": "C06",
+  "name": "GP de Azerbaijan",
+  "editions": 1,
+  "country": "Azerbaijan",
+  "winner": "P09",
+  "podium": ["P16", "P17"],
+  "length": 6.0,
+  "image": "R.drawable.azerbaijan"
+}

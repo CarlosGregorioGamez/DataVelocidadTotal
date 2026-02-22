@@ -1,0 +1,10 @@
+{
+  "id": "C15",
+  "name": "GP de Italia",
+  "editions": 1,
+  "country": "Italia",
+  "winner": "P16",
+  "podium": ["P11", "P09"],
+  "length": 5.8,
+  "image": "R.drawable.italia"
+}

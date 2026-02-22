@@ -1,0 +1,9 @@
+{
+  "id": "E05",
+  "name": "Ferrari",
+  "drivers": ["P09", "P04"],
+  "championships": 16,
+  "wins": 243,
+  "podiums": 800,
+  "image": "R.drawable.ferrari"
+}

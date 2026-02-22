@@ -1,0 +1,10 @@
+{
+  "id": "C16",
+  "name": "GP de Japón",
+  "editions": 1,
+  "country": "Japón",
+  "winner": "P12",
+  "podium": ["P16", "P11"],
+  "length": 5.8,
+  "image": "R.drawable.japon"
+}

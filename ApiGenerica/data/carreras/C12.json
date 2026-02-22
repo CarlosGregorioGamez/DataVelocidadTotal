@@ -1,0 +1,10 @@
+{
+  "id": "C12",
+  "name": "GP de España",
+  "editions": 1,
+  "country": "España",
+  "winner": "P11",
+  "podium": ["P16", "P09"],
+  "length": 4.6,
+  "image": "R.drawable.espana"
+}

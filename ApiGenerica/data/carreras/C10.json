@@ -1,0 +1,10 @@
+{
+  "id": "C10",
+  "name": "GP de Canada",
+  "editions": 1,
+  "country": "Canadá",
+  "winner": "P16",
+  "podium": ["P09", "P12"],
+  "length": 4.4,
+  "image": "R.drawable.canada"
+}
