@@ -498,31 +498,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Android\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos\\Documents\\ApijsonF1\\ApiGenerica\\ApiGenerica.csproj",
+      "projectUniqueName": "Z:\\2 DAM\\pmd\\DataVelocidadTotal\\ApiGenerica\\ApiGenerica.csproj",
       "projectName": "ApiGenerica",
-      "projectPath": "C:\\Users\\Carlos\\Documents\\ApijsonF1\\ApiGenerica\\ApiGenerica.csproj",
-      "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos\\Documents\\ApijsonF1\\ApiGenerica\\obj\\",
+      "projectPath": "Z:\\2 DAM\\pmd\\DataVelocidadTotal\\ApiGenerica\\ApiGenerica.csproj",
+      "packagesPath": "C:\\Users\\Android\\.nuget\\packages\\",
+      "outputPath": "Z:\\2 DAM\\pmd\\DataVelocidadTotal\\ApiGenerica\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Android\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
